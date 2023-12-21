@@ -1,0 +1,930 @@
+{
+  "sierra_program": [
+    "0x1",
+    "0x3",
+    "0x0",
+    "0x2",
+    "0x2",
+    "0x0",
+    "0xb9",
+    "0x47",
+    "0x18",
+    "0x52616e6765436865636b",
+    "0x800000000000000100000000000000000000000000000000",
+    "0x426f78",
+    "0x800000000000000700000000000000000000000000000001",
+    "0x1",
+    "0x9",
+    "0x537472756374",
+    "0x800000000000000f00000000000000000000000000000001",
+    "0x0",
+    "0x2ee1e2b1b89f8c495f200e4956278a4d47395fe262f27b52e5865c9524c08c3",
+    "0x456e756d",
+    "0x800000000000000700000000000000000000000000000003",
+    "0x64bc731dbed8121c655c7e7c3210f760a0a79824a4b1ce5e43b39422520f93",
+    "0x2",
+    "0x4172726179",
+    "0x800000000000000300000000000000000000000000000001",
+    "0x536e617073686f74",
+    "0x4",
+    "0x800000000000000700000000000000000000000000000002",
+    "0x3a930f67c4aeb214978dcb9928f3e26aeaebe8d59f5dde04722e585a7ca782",
+    "0x5",
+    "0x66656c74323532",
+    "0x800000000000000700000000000000000000000000000000",
+    "0x3288d594b9a45d15bb2fcb7903f06cdb06b27f0ba88186ec4cfaa98307cb972",
+    "0x800000000000000700000000000000000000000000000004",
+    "0x7",
+    "0x8",
+    "0x800000000000000300000000000000000000000000000003",
+    "0xa",
+    "0x16a4c8d7c05909052238a862d8cc3e7975bf05a07b3a69c6b28951083a6d672",
+    "0xc",
+    "0x74584e9f10ffb1a40aa5a3582e203f6758defc4a497d1a2d5a89f274a320e9",
+    "0xb",
+    "0xd",
+    "0x1949ecd72d6dc8a4c65983de9c9843e2a5644f714241f04602c80b8d5ca7c3f",
+    "0x1baeba72e79e9db2587cf44fedb2f3700b2075a5e8e39a562584862c4b71f62",
+    "0x10",
+    "0x11",
+    "0x4275696c74696e436f737473",
+    "0x53797374656d",
+    "0x9931c641b913035ae674b400b61a51476d506bbe8bba2ff8a6272790aba9e6",
+    "0x12",
+    "0x753332",
+    "0x4761734275696c74696e",
+    "0x60",
+    "0x7265766f6b655f61705f747261636b696e67",
+    "0x77697468647261775f676173",
+    "0x6272616e63685f616c69676e",
+    "0x7374727563745f6465636f6e737472756374",
+    "0x61727261795f6c656e",
+    "0x736e617073686f745f74616b65",
+    "0x16",
+    "0x64726f70",
+    "0x7533325f636f6e7374",
+    "0x72656e616d65",
+    "0x73746f72655f74656d70",
+    "0x7533325f6571",
+    "0x61727261795f6e6577",
+    "0x66656c743235325f636f6e7374",
+    "0x496e70757420746f6f206c6f6e6720666f7220617267756d656e7473",
+    "0x61727261795f617070656e64",
+    "0x7374727563745f636f6e737472756374",
+    "0x656e756d5f696e6974",
+    "0x15",
+    "0x17",
+    "0x14",
+    "0x6765745f6275696c74696e5f636f737473",
+    "0x13",
+    "0x77697468647261775f6761735f616c6c",
+    "0x4f72646572",
+    "0x66756e6374696f6e5f63616c6c",
+    "0x3",
+    "0x4f7574206f6620676173",
+    "0xf",
+    "0x6",
+    "0x656e756d5f6d61746368",
+    "0xe",
+    "0x7533325f746f5f66656c74323532",
+    "0x67616d655f6964",
+    "0x753634",
+    "0x74696c655f6964",
+    "0x6f726465725f6964",
+    "0x64697361626c655f61705f747261636b696e67",
+    "0x647570",
+    "0x61727261795f736e617073686f745f706f705f66726f6e74",
+    "0x6a756d70",
+    "0x756e626f78",
+    "0x1b3",
+    "0xffffffffffffffff",
+    "0x40",
+    "0x1c",
+    "0x19",
+    "0x1a",
+    "0x1b",
+    "0x1d",
+    "0x33",
+    "0x1e",
+    "0x1f",
+    "0x20",
+    "0x21",
+    "0x22",
+    "0x23",
+    "0x26",
+    "0x27",
+    "0x24",
+    "0x25",
+    "0x28",
+    "0x29",
+    "0x2a",
+    "0x2b",
+    "0x2c",
+    "0x2d",
+    "0x2e",
+    "0x2f",
+    "0x30",
+    "0x31",
+    "0x32",
+    "0x34",
+    "0x35",
+    "0x36",
+    "0x37",
+    "0x38",
+    "0x39",
+    "0x3a",
+    "0x3b",
+    "0x3c",
+    "0x3d",
+    "0x3e",
+    "0x3f",
+    "0x41",
+    "0x42",
+    "0x43",
+    "0x44",
+    "0x8e",
+    "0x6a",
+    "0x81",
+    "0xec",
+    "0xb8",
+    "0xdf",
+    "0xd8",
+    "0x45",
+    "0x46",
+    "0x47",
+    "0x48",
+    "0x49",
+    "0x4a",
+    "0x4b",
+    "0x4c",
+    "0x4d",
+    "0x4e",
+    "0x4f",
+    "0x50",
+    "0x51",
+    "0x52",
+    "0x53",
+    "0x54",
+    "0x13f",
+    "0x180",
+    "0x151",
+    "0x156",
+    "0x172",
+    "0x16c",
+    "0x179",
+    "0x55",
+    "0x56",
+    "0x57",
+    "0x58",
+    "0x59",
+    "0x5a",
+    "0x5b",
+    "0x5c",
+    "0x5d",
+    "0x1a5",
+    "0x5e",
+    "0x1a9",
+    "0x5f",
+    "0x9c",
+    "0xfa",
+    "0x100",
+    "0x10c",
+    "0x125",
+    "0x145",
+    "0x18f",
+    "0x19e",
+    "0xfaf",
+    "0x14091307120504110605100f0e0505050d090c0b0a09080706050403020100",
+    "0x50a091c071a05100f1b051a051a050a0919070e050e0518090c0b17161505",
+    "0x1d050411230908072205210520091c0b1d051f050a091c071e0908070e051d",
+    "0x92e2d022c172b22052a0529091c0b0228172726050a091307250524091307",
+    "0x5053834050537090e053634050535340505331a050532260505310930092f",
+    "0x2205053e1f05053e1a05053d1a0505383c0e053b1a05053a09390905053834",
+    "0x33460e053b0945440505380943400505384205053841050538050e40050e3f",
+    "0x2605053e1d0505351d0505330e050535484805471d0505381a0505351a0505",
+    "0x334a05053e12480547050e053626050535490e053b090e40050e3f2a05053e",
+    "0x4b480547150505381205053512050533154805474a0505384a0505354a0505",
+    "0x3b4f0e053b0605053a094e0e0505380e05053e1a050537210505314d05054c",
+    "0xe3f520e053b510e053b0605053d060505380605053e050e1b050e3f500e05",
+    "0x3e1a4805474b0505384b05053e0605053215050554095312050538090e1b05",
+    "0x48050e3f060505554b050531050e4d050e3f4d050538090e4d050e3f210505",
+    "0x35150505351b480547060505574805054c050e48050e3f095648050538090e",
+    "0x1b05054c1b0505370e0505371d050537064805471b050538060505314b0505",
+    "0xe091a4b0e5a15120e590e05090e050909590509090958050e053b090e053b",
+    "0x4b09211d0e590506051509060559051b0512091b0559054805480909590509",
+    "0x51b0909590522054b094d220e59051f0515091f055905091a090959051d05",
+    "0x21091205590512051d094a0559054a050609250559054d051b094a05590521",
+    "0x54d092a05590509220926055905091f09095905090e09095b09590e254a0e",
+    "0x94005590544420e260942055905092509440559052a260e4a092a0559052a",
+    "0x5c0559050e05420900055905150544094105590512051d093405590540052a",
+    "0x5e0541095e055905093409095905090e095d5c004112055d05590534054009",
+    "0x55905091f09095905090e0962610e605f5b0e590e5e15124800095e055905",
+    "0x5590566054d0909590565055e0966650e590564055d0964055905095c0963",
+    "0x5690562090959056a0561096a690e590568670e5f096805590563055b0967",
+    "0x6e0566096e0559056d0565096d0559056c0564090959056b0563096c6b0e59",
+    "0x54009720559050e054209710559055f054409700559055b051d096f055905",
+    "0x7505590509690974055905091f09095905090e09737271701205730559056f",
+    "0x590560760e2609760559050925096005590575740e4a097505590575054d09",
+    "0x50e0542097a055905620544097905590561051d097805590577052a097705",
+    "0x909590548056a09095905090e097c7b7a7912057c055905780540097b0559",
+    "0x97f0559057e7d0e4a097e0559057e054d097e0559050969097d055905091f",
+    "0x820559054b051d095a05590581052a09810559057f800e2609800559050925",
+    "0x9858483821205850559055a054009840559050e054209830559051a054409",
+    "0x590548054809095905090e091a4b0e8615120e590e05090e05090959050909",
+    "0x5905091a090959051d054b09211d0e590506051509060559051b0512091b05",
+    "0x54d051b094a05590521051b0909590522054b094d220e59051f0515091f05",
+    "0xe09098709590e254a0e21091205590512051d094a0559054a050609250559",
+    "0x2a260e4a092a0559052a054d092a05590509220926055905091f0909590509",
+    "0x51d093405590540052a094005590544420e26094205590509250944055905",
+    "0x12055d055905340540095c0559050e05420900055905150544094105590512",
+    "0x5e15124800095e0559055e0541095e055905093409095905090e095d5c0041",
+    "0x15096405590509670963055905091f09095905090e0962610e885f5b0e590e",
+    "0x96805590563055b09670559056605060909590565054b0966650e59056405",
+    "0x59056b0563096c6b0e5905690562090959056a0561096a690e590568670e68",
+    "0x59055b051d096f0559056e0566096e0559056d0565096d0559056c05640909",
+    "0x7271701205730559056f054009720559050e054209710559055f0544097005",
+    "0x4a097505590575054d097505590509690974055905091f09095905090e0973",
+    "0x7805590577052a097705590560760e2609760559050925096005590575740e",
+    "0x55905780540097b0559050e0542097a055905620544097905590561051d09",
+    "0x50969097d055905091f0909590548056a09095905090e097c7b7a7912057c",
+    "0x800e2609800559050925097f0559057e7d0e4a097e0559057e054d097e0559",
+    "0x4209830559051a054409820559054b051d095a05590581052a09810559057f",
+    "0x5090e0509095905090909858483821205850559055a054009840559050e05",
+    "0x60559051b0512091b05590548054809095905090e091a4b0e8915120e590e",
+    "0x220e59051f0515091f055905091a090959051d054b09211d0e590506051509",
+    "0x559054a050609250559054d051b094a05590521051b0909590522054b094d",
+    "0x55905091f09095905090e09098a09590e254a0e21091205590512051d094a",
+    "0x55905092509440559052a260e4a092a0559052a054d092a05590509220926",
+    "0x5150544094105590512051d093405590540052a094005590544420e260942",
+    "0x95905090e095d5c004112055d055905340540095c0559050e054209000559",
+    "0x962610e8b5f5b0e590e5e15124800095e0559055e0541095e055905093409",
+    "0x56e0909590564056d0965640e590563056c0963055905096b09095905090e",
+    "0x710968670e5905660570096a055905091f096605590569056f096905590565",
+    "0x5b0970055905680572096f0559055f0544096e0559055b051d090959056705",
+    "0x973058c7205590e6d0574096d6c6b48590571706f6e127309710559056a05",
+    "0x976600e5905740562090959057505610975740e590572057509095905090e",
+    "0x9790559057805660978055905770565097705590576056409095905600563",
+    "0x7d055905790540097c0559050e0542097b0559056c0544097a0559056b051d",
+    "0x544097f0559056b051d097e05590573052a09095905090e097d7c7b7a1205",
+    "0x5090e095a81807f12055a0559057e054009810559050e054209800559056c",
+    "0x590583820e4a098305590583054d098305590509690982055905091f090959",
+    "0x561051d098e0559058d052a098d05590584850e2609850559050925098405",
+    "0x908f1205920559058e054009910559050e05420990055905620544098f0559",
+    "0x4d099405590509690993055905091f0909590548056a09095905090e099291",
+    "0x9705590595960e2609960559050925099505590594930e4a09940559059405",
+    "0x559050e0542099a0559051a054409990559054b051d099805590597052a09",
+    "0x559050e050e4a090e055905090560099c9b9a9912059c055905980540099b",
+    "0x51b094b150e054b055905120577091505590548055b091205590509760948",
+    "0x4d0909590512055e0915120e590548055d09480559050e0578090e05590509",
+    "0x959051a0561091a4b0e5905061b0e5f090605590505055b091b0559051505",
+    "0x9056d091f210e051f0559051d057709210559054b055b091d055905097609",
+    "0x1205590509760948055905097b090e055905097a0905055905097909095905",
+    "0x4b050e7f094b0559054b057e094b05590515480e487d091505590512057c09",
+    "0x59051d057c091d05590509760906055905097b091b0559050980091a055905",
+    "0x8109220559051f1a0e7f091f0559051f057e091f05590521061b487d092105",
+    "0x4d487d092605590525055a09250559050976094a055905097b094d05590509",
+    "0x4205590544058209440559052a220e7f092a0559052a057e092a055905264a",
+    "0x5120515091205590515058509150e0e59050e058409095905098309420505",
+    "0x1d0e68092105590548055b091d0559051a0506090959054b054b091a4b0e59",
+    "0x44092505590509051d091f0559050e058d0909590506056109061b0e590521",
+    "0x5905442a2625128f09440559051b055b092a0559051f058e09260559050505",
+    "0x941340e590542057509095905090e0940059d4205590e4a0574094a4d2248",
+    "0x95d0559055c0591095c05590500340e900900055905097609095905410561",
+    "0x90e095f5b5e48055f0559055d0592095b0559054d0544095e05590522051d",
+    "0x61059209630559054d0544096205590522051d096105590540059309095905",
+    "0xe120509480009120559051205410912055905093409646362480564055905",
+    "0x91505590515051d09060559050e059409095905090e091b1a0e9e4b150e59",
+    "0x59051d0572092205590521059609095905090e091f059f211d0e590e060595",
+    "0x990925055905097609095905090e0909a0050998094a055905220597094d05",
+    "0xa12a05590e4a059a094a055905260597094d0559051f057209260559052505",
+    "0x94105590542057e09420559052a059b09095905098309095905090e094405",
+    "0x559054d058d090959053405610934400e590500410e9c090005590548055b",
+    "0x590540055b09620559055c058e09610559054b0544095f05590515051d095c",
+    "0x5905090e096505a26405590e5b0574095b5e5d4859056362615f128f096305",
+    "0x59055e0544096a0559055d051d090959056905610969660e59056405750909",
+    "0x96b05590565059309095905090e0909a3050998096805590566055b096705",
+    "0x90e096e6d6c48056e0559056b0592096d0559055e0544096c0559055d051d",
+    "0x6a05590515051d090959054d05a40909590544056109095905098309095905",
+    "0x559056f680e90096f0559050976096805590548055b09670559054b054409",
+    "0x5905710592097305590567054409720559056a051d09710559057005910970",
+    "0x50e05a50909590548056309095905098309095905090e0974737248057405",
+    "0x590560750e4a096005590560054d096005590509690975055905091f090959",
+    "0x51a051d0979055905780593097805590576770e2609770559050925097605",
+    "0x4859050905a6097c7b7a48057c055905790592097b0559051b0544097a0559",
+    "0x61094b150e59051b1a0e5f091b05590505055b091a0559050e054d0912480e",
+    "0x1d060e59051f210e5f091f05590515055b092105590548054d090959054b05",
+    "0xe5905254a0ea8092505590506055b094a0559051205a7090959051d056109",
+    "0x90e0559050905ab092a260e052a0559054d05aa09260559052205a9094d22",
+    "0x91505590509ae0909590548056109095905090e091205ad4805590e0e05ac",
+    "0x590509b00909590512056109095905090e0909af050998094b05590515054d",
+    "0x5060560090959051b055e09061b0e59054b055d094b0559051a054d091a05",
+    "0x9760909590521056109211d0e5905221f0e5f092205590505055b091f0559",
+    "0x1226424109121d254a0e05250559054d0577094a0559051d055b094d055905",
+    "0x912264241091296480e05094042410912264241091209480e050940424109",
+    "0x912054a05b305090e1d0e1d340eb205090e1d0e1d1a0eb1480e0509404241",
+    "0x60eb6480e05094d4109481d4b410912b5480e05094d4109481d15410912b4",
+    "0xb805090e1d0e1d1b0eb705090e1d0e1d"
+  ],
+  "sierra_program_debug_info": {
+    "type_names": [
+      [
+        0,
+        "RangeCheck"
+      ],
+      [
+        1,
+        "Box<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        2,
+        "Unit"
+      ],
+      [
+        3,
+        "core::option::Option::<core::box::Box::<@(core::felt252, core::felt252, core::bool)>>"
+      ],
+      [
+        4,
+        "Array<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        5,
+        "Snapshot<Array<Tuple<felt252, felt252, core::bool>>>"
+      ],
+      [
+        6,
+        "core::array::Span::<(core::felt252, core::felt252, core::bool)>"
+      ],
+      [
+        7,
+        "felt252"
+      ],
+      [
+        8,
+        "core::bool"
+      ],
+      [
+        9,
+        "Tuple<felt252, felt252, core::bool>"
+      ],
+      [
+        10,
+        "Array<felt252>"
+      ],
+      [
+        11,
+        "Tuple<Array<felt252>, Unit>"
+      ],
+      [
+        12,
+        "core::panics::Panic"
+      ],
+      [
+        13,
+        "Tuple<core::panics::Panic, Array<felt252>>"
+      ],
+      [
+        14,
+        "core::panics::PanicResult::<(core::array::Array::<core::felt252>, ())>"
+      ],
+      [
+        15,
+        "carc::components::game::order::ContractState"
+      ],
+      [
+        16,
+        "Snapshot<Array<felt252>>"
+      ],
+      [
+        17,
+        "core::array::Span::<core::felt252>"
+      ],
+      [
+        18,
+        "Tuple<core::array::Span::<core::felt252>>"
+      ],
+      [
+        19,
+        "BuiltinCosts"
+      ],
+      [
+        20,
+        "System"
+      ],
+      [
+        21,
+        "core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>"
+      ],
+      [
+        22,
+        "u32"
+      ],
+      [
+        23,
+        "GasBuiltin"
+      ]
+    ],
+    "libfunc_names": [
+      [
+        0,
+        "revoke_ap_tracking"
+      ],
+      [
+        1,
+        "withdraw_gas"
+      ],
+      [
+        2,
+        "branch_align"
+      ],
+      [
+        3,
+        "struct_deconstruct<core::array::Span::<core::felt252>>"
+      ],
+      [
+        4,
+        "array_len<felt252>"
+      ],
+      [
+        5,
+        "snapshot_take<u32>"
+      ],
+      [
+        6,
+        "drop<u32>"
+      ],
+      [
+        7,
+        "u32_const<0>"
+      ],
+      [
+        8,
+        "rename<u32>"
+      ],
+      [
+        9,
+        "store_temp<u32>"
+      ],
+      [
+        10,
+        "store_temp<RangeCheck>"
+      ],
+      [
+        11,
+        "u32_eq"
+      ],
+      [
+        12,
+        "array_new<felt252>"
+      ],
+      [
+        13,
+        "felt252_const<7733229381460288120802334208475838166080759535023995805565484692595>"
+      ],
+      [
+        14,
+        "store_temp<felt252>"
+      ],
+      [
+        15,
+        "array_append<felt252>"
+      ],
+      [
+        16,
+        "struct_construct<core::panics::Panic>"
+      ],
+      [
+        17,
+        "struct_construct<Tuple<core::panics::Panic, Array<felt252>>>"
+      ],
+      [
+        18,
+        "enum_init<core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>, 1>"
+      ],
+      [
+        19,
+        "store_temp<GasBuiltin>"
+      ],
+      [
+        20,
+        "store_temp<System>"
+      ],
+      [
+        21,
+        "store_temp<core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>>"
+      ],
+      [
+        22,
+        "get_builtin_costs"
+      ],
+      [
+        23,
+        "store_temp<BuiltinCosts>"
+      ],
+      [
+        24,
+        "withdraw_gas_all"
+      ],
+      [
+        25,
+        "felt252_const<341221598578>"
+      ],
+      [
+        26,
+        "snapshot_take<felt252>"
+      ],
+      [
+        27,
+        "drop<felt252>"
+      ],
+      [
+        28,
+        "store_temp<Array<felt252>>"
+      ],
+      [
+        29,
+        "function_call<user@core::Felt252Serde::serialize>"
+      ],
+      [
+        30,
+        "drop<Unit>"
+      ],
+      [
+        31,
+        "snapshot_take<Array<felt252>>"
+      ],
+      [
+        32,
+        "drop<Array<felt252>>"
+      ],
+      [
+        33,
+        "struct_construct<core::array::Span::<core::felt252>>"
+      ],
+      [
+        34,
+        "struct_construct<Tuple<core::array::Span::<core::felt252>>>"
+      ],
+      [
+        35,
+        "enum_init<core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>, 0>"
+      ],
+      [
+        36,
+        "felt252_const<375233589013918064796019>"
+      ],
+      [
+        37,
+        "drop<core::array::Span::<core::felt252>>"
+      ],
+      [
+        38,
+        "u32_const<1>"
+      ],
+      [
+        39,
+        "function_call<user@core::integer::U32Serde::serialize>"
+      ],
+      [
+        40,
+        "struct_construct<carc::components::game::order::ContractState>"
+      ],
+      [
+        41,
+        "snapshot_take<carc::components::game::order::ContractState>"
+      ],
+      [
+        42,
+        "drop<carc::components::game::order::ContractState>"
+      ],
+      [
+        43,
+        "store_temp<carc::components::game::order::ContractState>"
+      ],
+      [
+        44,
+        "function_call<user@carc::components::game::order::schema>"
+      ],
+      [
+        45,
+        "snapshot_take<Array<Tuple<felt252, felt252, core::bool>>>"
+      ],
+      [
+        46,
+        "drop<Array<Tuple<felt252, felt252, core::bool>>>"
+      ],
+      [
+        47,
+        "store_temp<Snapshot<Array<Tuple<felt252, felt252, core::bool>>>>"
+      ],
+      [
+        48,
+        "function_call<user@core::array::ArraySerde::<(core::felt252, core::felt252, core::bool), core::serde::TupleSize3Serde::<core::felt252, core::felt252, core::bool, core::Felt252Serde, core::felt252Drop, core::Felt252Serde, core::felt252Drop, core::BoolSerde, core::boolDrop>, core::traits::TupleSize3Drop::<core::felt252, core::felt252, core::bool, core::felt252Drop, core::felt252Drop, core::boolDrop>>::serialize>"
+      ],
+      [
+        49,
+        "enum_match<core::panics::PanicResult::<(core::array::Array::<core::felt252>, ())>>"
+      ],
+      [
+        50,
+        "struct_deconstruct<Tuple<Array<felt252>, Unit>>"
+      ],
+      [
+        51,
+        "rename<felt252>"
+      ],
+      [
+        52,
+        "struct_construct<Unit>"
+      ],
+      [
+        53,
+        "store_temp<Unit>"
+      ],
+      [
+        54,
+        "u32_to_felt252"
+      ],
+      [
+        55,
+        "array_new<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        56,
+        "felt252_const<29099045081278820>"
+      ],
+      [
+        57,
+        "felt252_const<7681588>"
+      ],
+      [
+        58,
+        "enum_init<core::bool, 1>"
+      ],
+      [
+        59,
+        "struct_construct<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        60,
+        "store_temp<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        61,
+        "array_append<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        62,
+        "felt252_const<32767011576572260>"
+      ],
+      [
+        63,
+        "felt252_const<8030591472428345700>"
+      ],
+      [
+        64,
+        "enum_init<core::bool, 0>"
+      ],
+      [
+        65,
+        "store_temp<Array<Tuple<felt252, felt252, core::bool>>>"
+      ],
+      [
+        66,
+        "disable_ap_tracking"
+      ],
+      [
+        67,
+        "dup<Snapshot<Array<Tuple<felt252, felt252, core::bool>>>>"
+      ],
+      [
+        68,
+        "array_len<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        69,
+        "struct_construct<core::array::Span::<(core::felt252, core::felt252, core::bool)>>"
+      ],
+      [
+        70,
+        "store_temp<core::array::Span::<(core::felt252, core::felt252, core::bool)>>"
+      ],
+      [
+        71,
+        "function_call<user@core::array::serialize_array_helper::<(core::felt252, core::felt252, core::bool), core::serde::TupleSize3Serde::<core::felt252, core::felt252, core::bool, core::Felt252Serde, core::felt252Drop, core::Felt252Serde, core::felt252Drop, core::BoolSerde, core::boolDrop>, core::traits::TupleSize3Drop::<core::felt252, core::felt252, core::bool, core::felt252Drop, core::felt252Drop, core::boolDrop>>>"
+      ],
+      [
+        72,
+        "struct_construct<Tuple<Array<felt252>, Unit>>"
+      ],
+      [
+        73,
+        "enum_init<core::panics::PanicResult::<(core::array::Array::<core::felt252>, ())>, 0>"
+      ],
+      [
+        74,
+        "store_temp<core::panics::PanicResult::<(core::array::Array::<core::felt252>, ())>>"
+      ],
+      [
+        75,
+        "enum_init<core::panics::PanicResult::<(core::array::Array::<core::felt252>, ())>, 1>"
+      ],
+      [
+        76,
+        "struct_deconstruct<core::array::Span::<(core::felt252, core::felt252, core::bool)>>"
+      ],
+      [
+        77,
+        "array_snapshot_pop_front<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        78,
+        "enum_init<core::option::Option::<core::box::Box::<@(core::felt252, core::felt252, core::bool)>>, 0>"
+      ],
+      [
+        79,
+        "store_temp<core::option::Option::<core::box::Box::<@(core::felt252, core::felt252, core::bool)>>>"
+      ],
+      [
+        80,
+        "jump"
+      ],
+      [
+        81,
+        "enum_init<core::option::Option::<core::box::Box::<@(core::felt252, core::felt252, core::bool)>>, 1>"
+      ],
+      [
+        82,
+        "enum_match<core::option::Option::<core::box::Box::<@(core::felt252, core::felt252, core::bool)>>>"
+      ],
+      [
+        83,
+        "unbox<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        84,
+        "function_call<user@core::serde::TupleSize3Serde::<core::felt252, core::felt252, core::bool, core::Felt252Serde, core::felt252Drop, core::Felt252Serde, core::felt252Drop, core::BoolSerde, core::boolDrop>::serialize>"
+      ],
+      [
+        85,
+        "drop<Snapshot<Array<Tuple<felt252, felt252, core::bool>>>>"
+      ],
+      [
+        86,
+        "drop<core::array::Span::<(core::felt252, core::felt252, core::bool)>>"
+      ],
+      [
+        87,
+        "struct_deconstruct<Tuple<felt252, felt252, core::bool>>"
+      ],
+      [
+        88,
+        "store_temp<core::bool>"
+      ],
+      [
+        89,
+        "function_call<user@core::BoolSerde::serialize>"
+      ],
+      [
+        90,
+        "rename<Array<felt252>>"
+      ],
+      [
+        91,
+        "rename<Unit>"
+      ],
+      [
+        92,
+        "rename<core::bool>"
+      ],
+      [
+        93,
+        "enum_match<core::bool>"
+      ],
+      [
+        94,
+        "felt252_const<0>"
+      ],
+      [
+        95,
+        "felt252_const<1>"
+      ]
+    ],
+    "user_func_names": [
+      [
+        0,
+        "carc::components::game::order::__wrapper_name"
+      ],
+      [
+        1,
+        "carc::components::game::order::__wrapper_size"
+      ],
+      [
+        2,
+        "carc::components::game::order::__wrapper_schema"
+      ],
+      [
+        3,
+        "core::Felt252Serde::serialize"
+      ],
+      [
+        4,
+        "core::integer::U32Serde::serialize"
+      ],
+      [
+        5,
+        "carc::components::game::order::schema"
+      ],
+      [
+        6,
+        "core::array::ArraySerde::<(core::felt252, core::felt252, core::bool), core::serde::TupleSize3Serde::<core::felt252, core::felt252, core::bool, core::Felt252Serde, core::felt252Drop, core::Felt252Serde, core::felt252Drop, core::BoolSerde, core::boolDrop>, core::traits::TupleSize3Drop::<core::felt252, core::felt252, core::bool, core::felt252Drop, core::felt252Drop, core::boolDrop>>::serialize"
+      ],
+      [
+        7,
+        "core::array::serialize_array_helper::<(core::felt252, core::felt252, core::bool), core::serde::TupleSize3Serde::<core::felt252, core::felt252, core::bool, core::Felt252Serde, core::felt252Drop, core::Felt252Serde, core::felt252Drop, core::BoolSerde, core::boolDrop>, core::traits::TupleSize3Drop::<core::felt252, core::felt252, core::bool, core::felt252Drop, core::felt252Drop, core::boolDrop>>"
+      ],
+      [
+        8,
+        "core::serde::TupleSize3Serde::<core::felt252, core::felt252, core::bool, core::Felt252Serde, core::felt252Drop, core::Felt252Serde, core::felt252Drop, core::BoolSerde, core::boolDrop>::serialize"
+      ],
+      [
+        9,
+        "core::BoolSerde::serialize"
+      ]
+    ]
+  },
+  "contract_class_version": "0.1.0",
+  "entry_points_by_type": {
+    "EXTERNAL": [
+      {
+        "selector": "0xdea85a028ad086e64e60d66d1b2f359e0873ac03939f3d9979946eba52838c",
+        "function_idx": 1
+      },
+      {
+        "selector": "0x11efd13169e3bceace525b23b7f968b3cc611248271e35f04c5c917311fc7f7",
+        "function_idx": 2
+      },
+      {
+        "selector": "0x361458367e696363fbcc70777d07ebbd2394e89fd0adcaf147faccd1d294d60",
+        "function_idx": 0
+      }
+    ],
+    "L1_HANDLER": [],
+    "CONSTRUCTOR": []
+  },
+  "abi": [
+    {
+      "type": "function",
+      "name": "name",
+      "inputs": [],
+      "outputs": [
+        {
+          "type": "core::felt252"
+        }
+      ],
+      "state_mutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "size",
+      "inputs": [],
+      "outputs": [
+        {
+          "type": "core::integer::u32"
+        }
+      ],
+      "state_mutability": "view"
+    },
+    {
+      "type": "enum",
+      "name": "core::bool",
+      "variants": [
+        {
+          "name": "False",
+          "type": "()"
+        },
+        {
+          "name": "True",
+          "type": "()"
+        }
+      ]
+    },
+    {
+      "type": "function",
+      "name": "schema",
+      "inputs": [],
+      "outputs": [
+        {
+          "type": "core::array::Array::<(core::felt252, core::felt252, core::bool)>"
+        }
+      ],
+      "state_mutability": "view"
+    },
+    {
+      "type": "event",
+      "name": "carc::components::game::order::Event",
+      "kind": "enum",
+      "variants": []
+    }
+  ]
+}
